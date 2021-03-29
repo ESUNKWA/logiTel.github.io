@@ -1,3 +1,0 @@
-//MO022-023.TXT ANA00022 TO ANA00023
-t_details_occp		TAR	108	nouvelle taille enregistrement : 108
-t_details_occp	r_is_salle	RUB+		r_is_salle est une nouvelle clé

@@ -1,3 +1,0 @@
-//MO031-032.TXT ANA00031 TO ANA00032
-t_details_occp		TAR	116	nouvelle taille enregistrement : 116
-t_details_occp	r_date_modif	RUB+		r_date_modif est une nouvelle rubrique

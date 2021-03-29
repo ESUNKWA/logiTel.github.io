@@ -1,2 +1,15 @@
-//MO034-035.TXT ANA00034 TO ANA00035
-SoftDev connexion		CNX		
+//MO035-036.TXT ANA00035 TO ANA00036
+t_client		FCNX+	Connexion à 'localhost'	
+t_tarif		FCNX+	Connexion à 'localhost'	
+t_logis		FCNX+	Connexion à 'localhost'	
+t_type_logis		FCNX+	Connexion à 'localhost'	
+t_reservation		FCNX+	Connexion à 'localhost'	
+t_details_occp		FCNX+	Connexion à 'localhost'	
+t_batiment		FCNX+	Connexion à 'localhost'	
+t_personnel		FCNX+	Connexion à 'localhost'	
+t_acces		FCNX+	Connexion à 'localhost'	
+t_histo_cnx		FCNX+	Connexion à 'localhost'	
+t_structure		FCNX+	Connexion à 'localhost'	
+t_amenagement		FCNX+	Connexion à 'localhost'	
+t_depenses		FCNX+	Connexion à 'localhost'	
+Connexion à 'localhost'		CNX+		

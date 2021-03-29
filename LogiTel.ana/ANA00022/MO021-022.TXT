@@ -1,3 +1,0 @@
-//MO021-022.TXT ANA00021 TO ANA00022
-t_structure		TAR	633	nouvelle taille enregistrement : 633
-t_structure	r_site_web	RUB+		r_site_web est une nouvelle rubrique

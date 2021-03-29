@@ -1,5 +1,0 @@
-//MO027-028.TXT ANA00027 TO ANA00028
-t_depenses		NFI		nouveau fichier
-t_depenses	r_produit	RRN		
-t_depenses	qte	RRN		
-t_depenses	r_description	RRN		

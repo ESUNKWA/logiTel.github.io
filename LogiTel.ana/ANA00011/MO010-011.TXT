@@ -1,3 +1,0 @@
-//MO010-011.TXT ANA00010 TO ANA00011
-t_tarif		TAR	55	nouvelle taille enregistrement : 55
-t_tarif	r_is_salle	RUB+		r_is_salle est une nouvelle clé
