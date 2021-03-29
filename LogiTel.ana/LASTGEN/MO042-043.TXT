@@ -1,0 +1,26 @@
+//MO042-043.TXT ANA00042 TO ANA00043
+t_client		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_client		FCNX+	Connexion à Etiada_cnx	
+t_tarif		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_tarif		FCNX+	Connexion à Etiada_cnx	
+t_logis		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_logis		FCNX+	Connexion à Etiada_cnx	
+t_type_logis		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_type_logis		FCNX+	Connexion à Etiada_cnx	
+t_reservation		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_reservation		FCNX+	Connexion à Etiada_cnx	
+t_details_occp		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_details_occp		FCNX+	Connexion à Etiada_cnx	
+t_batiment		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_batiment		FCNX+	Connexion à Etiada_cnx	
+t_personnel		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_personnel		FCNX+	Connexion à Etiada_cnx	
+t_acces		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_acces		FCNX+	Connexion à Etiada_cnx	
+t_histo_cnx		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_histo_cnx		FCNX+	Connexion à Etiada_cnx	
+t_structure		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_structure		FCNX+	Connexion à Etiada_cnx	
+t_amenagement		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+t_amenagement		FCNX+	Connexion à Etiada_cnx	
+Connexion à Etiada_cnx		CNX+		

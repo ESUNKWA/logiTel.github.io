@@ -1,0 +1,2 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+t_logis	r_is_salle	CLEN*		la rubrique r_is_salle est maintenant une clé

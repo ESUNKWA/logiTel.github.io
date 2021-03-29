@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+t_reservation		TAR	162	nouvelle taille enregistrement : 162
+t_reservation	r_date_modif	RUB+		r_date_modif est une nouvelle rubrique
+t_reservation	r_avance	RUB+		r_avance est une nouvelle rubrique

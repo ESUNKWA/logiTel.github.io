@@ -1,0 +1,4 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+t_depenses		TAR	111	nouvelle taille enregistrement : 111
+t_depenses	r_prix	RUB+		r_prix est une nouvelle rubrique
+t_depenses	r_pernonnel	RUB+		r_pernonnel est une nouvelle clé

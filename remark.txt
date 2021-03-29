@@ -1,0 +1,4 @@
+-fenetre config: 
+Modification des chambre et salle
+-Fenetre des reservations:
+derniere table colonne batiment ( mettre le libelle )

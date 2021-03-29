@@ -1,0 +1,4 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+t_personnel		TAR	317	nouvelle taille enregistrement : 317
+t_personnel	r_teelphone_1	TAI+	12	la rubrique r_teelphone_1 a comme nouvelle taille 21 au lieu de 9
+t_personnel	r_telephone_2	TAI+	12	la rubrique r_telephone_2 a comme nouvelle taille 21 au lieu de 9

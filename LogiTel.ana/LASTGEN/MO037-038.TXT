@@ -1,0 +1,3 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+t_personnel		TAR	237	nouvelle taille enregistrement : 237
+t_personnel	r_prenoms	RUB-		la rubrique r_prenoms est supprimée

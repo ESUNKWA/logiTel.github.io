@@ -1,0 +1,3 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+t_logis		TAR	170	nouvelle taille enregistrement : 170
+t_logis	r_is_salle	CNW	Entier sur 4 octets$Booléen	la rubrique r_is_salle a pour nouveau type Entier sur 4 octets

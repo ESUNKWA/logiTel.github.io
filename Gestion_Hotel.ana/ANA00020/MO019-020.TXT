@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+t_logis		TAR	167	nouvelle taille enregistrement : 167
+t_logis	r_is_salle	RUB+		r_is_salle est une nouvelle rubrique

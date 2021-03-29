@@ -1,0 +1,10 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=9	;Analysis GUID
+LOCALIZATION_UTF8=0DC4B668ECA14202864AC4F604846ECA	t_batiment	C:\Mes Projets\Gestion_Hôtel\EXE\t_batiment.fic
+LOCALIZATION_UTF8=3F3906F0C4FA4E048CAA749879AE909D	t_local	C:\Mes Projets\Gestion_Hôtel\EXE\t_local.fic
+LOCALIZATION_UTF8=F1592A591E244205B07FD933798CB86E	t_caracterisk_local	C:\Mes Projets\Gestion_Hôtel\EXE\t_caracterisk_local.fic
+LOCALIZATION_UTF8=19EEC93F16C545EF931B45A7C4D4D13F	t_statut_local	C:\Mes Projets\Gestion_Hôtel\Exe\t_statut_local.fic
+LOCALIZATION_UTF8=EC9D981A67404B03B87294B9A5BDF012	t_tarif	C:\Mes Projets\Gestion_Hôtel\EXE\Tarif.FIC
+LOCALIZATION_UTF8=27391AB01BF84922AF32031A10A895ED	Client	C:\Mes Projets\Gestion_Hôtel\EXE\Client.FIC
+LOCALIZATION_UTF8=30DA53CEEB27427EB9BA93F48C5171F3	t_details_occp	C:\Mes Projets\Gestion_Hôtel\EXE\t_details_occp.fic

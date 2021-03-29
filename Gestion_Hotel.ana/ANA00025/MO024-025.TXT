@@ -1,0 +1,4 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+t_details_occp		TAR	94	nouvelle taille enregistrement : 94
+t_details_occp	r_local	CNW	Entier sur 8 octets$Chaîne	la rubrique r_local a pour nouveau type Entier sur 8 octets
+Contrainte_t_logis_t_details_occp		LMC	t_logis$r_i$r_num_logis	

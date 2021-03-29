@@ -1,0 +1,14 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+t_client		FCNX+	Connexion à 'localhost'	
+t_tarif		FCNX+	Connexion à 'localhost'	
+t_logis		FCNX+	Connexion à 'localhost'	
+t_type_logis		FCNX+	Connexion à 'localhost'	
+t_reservation		FCNX+	Connexion à 'localhost'	
+t_details_occp		FCNX+	Connexion à 'localhost'	
+t_batiment		FCNX+	Connexion à 'localhost'	
+t_personnel		FCNX+	Connexion à 'localhost'	
+t_acces		FCNX+	Connexion à 'localhost'	
+t_histo_cnx		FCNX+	Connexion à 'localhost'	
+t_structure		FCNX+	Connexion à 'localhost'	
+t_amenagement		FCNX+	Connexion à 'localhost'	
+Connexion à 'localhost'		CNX+		

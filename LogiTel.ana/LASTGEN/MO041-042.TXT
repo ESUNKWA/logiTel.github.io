@@ -1,0 +1,4 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+t_personnel		TAR	190	nouvelle taille enregistrement : 190
+t_personnel	r_profil_user	CNW	Entier sur 4 octets$Entier non signé sur 1 octet	la rubrique r_profil_user a pour nouveau type Entier sur 4 octets
+t_personnel	r_profil_user	RRM		

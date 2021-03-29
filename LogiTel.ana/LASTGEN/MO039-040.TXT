@@ -1,0 +1,3 @@
+//MO039-040.TXT ANA00039 TO ANA00040
+t_personnel		TAR	186	nouvelle taille enregistrement : 186
+t_personnel	r_profil	RUB-		la clé r_profil est supprimée

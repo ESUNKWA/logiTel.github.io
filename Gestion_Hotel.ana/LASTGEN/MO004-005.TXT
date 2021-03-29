@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+t_reservation		TAR	144	nouvelle taille enregistrement : 144
+t_reservation	r_type_logis	CNW	Entier sur 8 octets$Chaîne	la rubrique r_type_logis a pour nouveau type Entier sur 8 octets

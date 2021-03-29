@@ -1,0 +1,3 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+t_type_logis		TAR	88	nouvelle taille enregistrement : 88
+t_type_logis	r_is_salle	RUB+		r_is_salle est une nouvelle clé

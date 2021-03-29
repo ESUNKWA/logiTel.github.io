@@ -1,0 +1,5 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+t_tarif		TAR	53	nouvelle taille enregistrement : 53
+t_tarif	r_prix_heurr_prix_sejourr_type_logis	RUB+		r_prix_heurr_prix_sejourr_type_logis est une nouvelle clé
+t_tarif	r_categorie	RUB-		la clé r_categorie est supprimée
+t_tarif	unicite_tarif	RUB-		la clé unicite_tarif est supprimée

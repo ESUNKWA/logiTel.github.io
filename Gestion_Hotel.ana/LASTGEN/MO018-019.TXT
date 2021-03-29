@@ -1,0 +1,2 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+t_amenagement		FIC-	t_fonction	Fichier supprimé t_fonction

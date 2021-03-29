@@ -1,0 +1,2 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Contrainte_t_type_logis_t_tarif		MCL	0,n->0,1	

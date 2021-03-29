@@ -1,0 +1,4 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+t_tarif		TAR	109	nouvelle taille enregistrement : 109
+t_tarif	r_type_logis	RUB+		r_type_logis est une nouvelle clé
+t_type_logis		NWL	t_type_logis (r_i) et t_tarif (r_type_logis)	Nouvelle liaison entre les fichiers t_type_logis (r_i) et t_tarif (r_type_logis)

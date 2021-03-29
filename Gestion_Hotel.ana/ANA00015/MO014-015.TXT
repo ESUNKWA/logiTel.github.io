@@ -1,0 +1,3 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+t_acces		TAR	94	nouvelle taille enregistrement : 94
+t_acces	r_mdp	CNW	Chaîne$Mémo texte unicode	la rubrique r_mdp a pour nouveau type Chaîne

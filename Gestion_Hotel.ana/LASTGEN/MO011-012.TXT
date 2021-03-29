@@ -1,0 +1,3 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+t_details_occp		TAR	94	nouvelle taille enregistrement : 94
+t_details_occp	r_pernonnel	CNW	Entier sur 8 octets$Entier sur 4 octets	la rubrique r_pernonnel a pour nouveau type Entier sur 8 octets

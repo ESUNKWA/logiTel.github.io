@@ -1,0 +1,4 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+t_personnel		TAR	187	nouvelle taille enregistrement : 187
+t_personnel	r_profil_user	RUB+		r_profil_user est une nouvelle rubrique
+t_personnel	r_profil_user	RRN		

@@ -1,0 +1,5 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+t_depenses	qte	RRM		
+t_depenses	r_description	RRM		
+t_depenses	r_prix	RRN		
+t_depenses	r_pernonnel	RRN		

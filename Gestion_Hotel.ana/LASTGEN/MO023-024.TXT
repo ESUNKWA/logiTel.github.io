@@ -1,0 +1,4 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+t_details_occp		TAR	102	nouvelle taille enregistrement : 102
+t_details_occp	r_local	CNW	Chaîne$Entier sur 8 octets	la rubrique r_local a pour nouveau type Chaîne
+Contrainte_t_logis_t_details_occp		LMC	t_logis$r_num_logis$r_i	

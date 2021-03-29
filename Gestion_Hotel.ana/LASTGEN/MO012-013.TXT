@@ -1,0 +1,3 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+t_logis		TAR	166	nouvelle taille enregistrement : 166
+t_logis	r_moti_hs	RUB+		r_moti_hs est une nouvelle rubrique

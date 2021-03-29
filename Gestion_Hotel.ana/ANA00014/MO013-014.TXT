@@ -1,0 +1,3 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+t_acces		TAR	51	nouvelle taille enregistrement : 51
+t_acces	r_mdp	CNW	Mémo texte unicode$Chaîne	la rubrique r_mdp a pour nouveau type Mémo texte unicode

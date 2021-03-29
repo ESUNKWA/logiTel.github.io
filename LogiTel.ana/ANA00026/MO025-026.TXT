@@ -1,0 +1,14 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+t_client		FCNX+	SoftDev connexion	
+t_tarif		FCNX+	SoftDev connexion	
+t_logis		FCNX+	SoftDev connexion	
+t_type_logis		FCNX+	SoftDev connexion	
+t_reservation		FCNX+	SoftDev connexion	
+t_details_occp		FCNX+	SoftDev connexion	
+t_batiment		FCNX+	SoftDev connexion	
+t_personnel		FCNX+	SoftDev connexion	
+t_acces		FCNX+	SoftDev connexion	
+t_histo_cnx		FCNX+	SoftDev connexion	
+t_structure		FCNX+	SoftDev connexion	
+t_amenagement		FCNX+	SoftDev connexion	
+SoftDev connexion		CNX+		

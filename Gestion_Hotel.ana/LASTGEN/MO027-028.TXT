@@ -1,0 +1,10 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+t_tarif		TAR	105	nouvelle taille enregistrement : 105
+t_tarif	r_type_logis	CNW	Entier sur 4 octets$Entier sur 8 octets	la rubrique r_type_logis a pour nouveau type Entier sur 4 octets
+t_logis		TAR	163	nouvelle taille enregistrement : 163
+t_logis	r_type_logis	CNW	Entier sur 4 octets$Entier sur 8 octets	la rubrique r_type_logis a pour nouveau type Entier sur 4 octets
+t_type_logis		TAR	84	nouvelle taille enregistrement : 84
+t_type_logis	r_i	CNW	Identifiant automatique (4 octets)$Identifiant automatique (8 octets)	la rubrique r_i a pour nouveau type Identifiant automatique (4 oct
+t_reservation		TAR	127	nouvelle taille enregistrement : 127
+t_reservation	r_type_logis	CNW	Entier sur 4 octets$Entier sur 8 octets	la rubrique r_type_logis a pour nouveau type Entier sur 4 octets
+t_tarif	r_type_logis	RRN		

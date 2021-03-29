@@ -1,0 +1,2 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+t_type_logis		NWL	t_type_logis (r_i) et t_reservation (r_type_logis)	Nouvelle liaison entre les fichiers t_type_logis (r_i) et t_reservation (r_type_logis)

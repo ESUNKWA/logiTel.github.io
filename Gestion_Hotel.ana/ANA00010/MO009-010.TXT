@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+t_personnel		TAR	293	nouvelle taille enregistrement : 293
+t_personnel	r_fonction	RUB-		la clé r_fonction est supprimée
+t_fonction		DEL	t_fonction (r_i) et t_personnel (r_fonction)	Liaison supprimée entre les fichiers t_fonction (r_i) et t_personnel (r_fonction)

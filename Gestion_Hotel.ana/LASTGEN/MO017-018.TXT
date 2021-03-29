@@ -1,0 +1,4 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+t_reservation		TAR	131	nouvelle taille enregistrement : 131
+t_reservation	r_client	CNW	Entier sur 8 octets$Chaîne	la rubrique r_client a pour nouveau type Entier sur 8 octets
+Contrainte_Client_t_reservation		LMC	t_client$r_i$r_ref_Client	
